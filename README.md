@@ -1,10 +1,10 @@
 # 🪄 *MagicIA* - Imersão Dev em Dobro
 
-Este é o meu projeto MagicIA, desenvolvido como parte da Imersão do canal Dev em Dobro. Ele representa meus estudos e a aplicação prática de HTML, CSS e JavaScript, focando nos fundamentos do desenvolvimento web front-end.
+Este é um projeto desenvolvido como parte da Imersão do canal Dev em Dobro. Ele representa meus estudos e a aplicação prática de HTML, CSS e JavaScript, focando nos fundamentos do desenvolvimento web Front-End.
 
 # 🚀 Sobre o Projeto
 
-O projeto MagicIA é uma forma de aplicar os conhecimentos de * HTML, CSS e Java Script que venho adquirindo. Nele, temos:
+O projeto MagicIA é uma forma de aplicar os conhecimentos de que venho adquirindo. Nele usei:
 
  * HTML Estruturado: A base de toda a página, construída com foco na organização e semântica do conteúdo.
    
@@ -13,7 +13,7 @@ O projeto MagicIA é uma forma de aplicar os conhecimentos de * HTML, CSS e Java
  * JavaScript Interativo: Pequenas funcionalidades que adicionam dinamismo à página. 
    
 # 💡 Aprendizados com o Projeto
-Ao desenvolver este projeto, estou consolidando meus conhecimentos em desenvolvimento web FrontEnd com:
+Ao desenvolver este projeto, estou consolidando meus conhecimentos em desenvolvimento web Front-End com:
 
  * Fundamentos de HTML: Criando uma estrutura de páginas web com o uso correto de tags e elementos.
    
