@@ -25,7 +25,7 @@ Este projeto é um passo importante na minha jornada de aprendizado em desenvolv
 
 ## Demonstração 🚀
 
-Você pode ver uma versão online e interativa do projeto aqui: [MagicIA - Imersão DevQuest](https://victor-martins-pereira.github.io/MagicIA-DevEmDobro/)
+Você pode ver uma versão online e interativa do projeto aqui: [MagicIA - Imersão Dev em Dobro](https://victor-martins-pereira.github.io/MagicIA-DevEmDobro/)
 
 ## Conecte-se Comigo
 
